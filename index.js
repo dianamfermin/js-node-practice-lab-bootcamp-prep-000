@@ -1,7 +1,7 @@
 // write your code below!
 
 var name = "Diana"
-var height = "5'7"
+var height = "67"
 
 console.log("Name:")
 console.log(name)
